@@ -6,8 +6,9 @@ There are my personal libraries for use with EAGLE.
 
 ## scart.lbr
 
-* Includes a scart cable type connector for PCBs.
+* Layout for a scart cable connector (male)
+* Layout for a scart right angle, is the same as com-hirschmann but without support holes. You can draw the shape, is a 119mil width, can use a pair of holes.
 
 ## FDS.lbr
 
-* Includes a FDS data or SFC/SNES A/V male connector.
+* Includes a FDS data or SFC/SNES A/V male connector to a d-sub 15.
