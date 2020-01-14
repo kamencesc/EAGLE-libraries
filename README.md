@@ -12,3 +12,9 @@ There are my personal libraries for use with EAGLE.
 ## FDS.lbr
 
 * Includes a FDS data or SFC/SNES A/V male connector to a d-sub 15.
+
+## snd_ampli_boards.lbr
+
+* Footprints for an easy use of cheap sound amplifiers.
+* PAM8403, 5V, stereo input (R Gnd L) and stereo ouput (R+/- L+/-)
+* TPA3116 (in a 10 pins row), 12V, stereo input (R Gnd L) and stereo ouput (R+/- L+/-), CS (mute short)
