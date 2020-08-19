@@ -2,8 +2,9 @@
 There are my personal libraries for use with EAGLE.
 
 ## DAC1502.lbr
-* Layour for a cheap chinese DAC
-https://es.aliexpress.com/item/4000054194789.html?spm=a2g0s.9042311.0.0.6c3363c0sWXnhV
+* Layout for a cheap chinese DAC
+
+Aliexpress: [DAC1502](https://es.aliexpress.com/item/4000054194789.html?spm=a2g0s.9042311.0.0.6c3363c0sWXnhV)
 
 ## din.lbr
 * Includes a Din 8 socket type.
