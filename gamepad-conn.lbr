@@ -59,13 +59,13 @@
 <library>
 <packages>
 <package name="SNESCONN">
-<pad name="NC" x="18.756" y="4.064" drill="1.7478" diameter="2.84"/>
-<pad name="NC." x="22.82" y="4.064" drill="1.7478" diameter="2.84"/>
-<pad name="GND" x="26.884" y="4.064" drill="1.7478" diameter="2.84"/>
-<pad name="DATA" x="12.192" y="4.064" drill="1.78478125" diameter="2.84"/>
-<pad name="5V" x="0" y="4.064" drill="1.7478" diameter="2.84"/>
-<pad name="CLOCK" x="4.064" y="4.064" drill="1.7478" diameter="2.84"/>
-<pad name="LATCH" x="8.128" y="4.064" drill="1.7478" diameter="2.84"/>
+<pad name="NC" x="18.756" y="4.064" drill="2" diameter="2.9"/>
+<pad name="NC." x="22.82" y="4.064" drill="2" diameter="2.9"/>
+<pad name="GND" x="26.884" y="4.064" drill="2" diameter="2.9"/>
+<pad name="DATA" x="12.192" y="4.064" drill="2" diameter="2.9"/>
+<pad name="5V" x="0" y="4.064" drill="2" diameter="2.9"/>
+<pad name="CLOCK" x="4.064" y="4.064" drill="2" diameter="2.9"/>
+<pad name="LATCH" x="8.128" y="4.064" drill="2" diameter="2.9"/>
 <circle x="0" y="4.064" radius="1.905" width="0.2032" layer="21"/>
 <circle x="4.064" y="4.064" radius="1.905" width="0.2032" layer="21"/>
 <circle x="8.128" y="4.064" radius="1.905" width="0.2032" layer="21"/>
@@ -112,13 +112,13 @@
 <wire x1="27" y1="-1.8" x2="33" y2="4.2" width="0.127" layer="21" curve="90"/>
 </package>
 <package name="NESCONN">
-<pad name="NC" x="0" y="0" drill="1.7478" diameter="2.84"/>
-<pad name="NC." x="4.064" y="0" drill="1.7478" diameter="2.84"/>
-<pad name="5V" x="8.128" y="0" drill="1.7478" diameter="2.84"/>
-<pad name="GND" x="12.192" y="4.064" drill="1.7478" diameter="2.84"/>
-<pad name="DATA" x="0" y="4.064" drill="1.7478" diameter="2.84"/>
-<pad name="LATCH" x="4.064" y="4.064" drill="1.7478" diameter="2.84"/>
-<pad name="CLOCK" x="8.128" y="4.064" drill="1.7478" diameter="2.84"/>
+<pad name="NC" x="0" y="0" drill="2" diameter="2.9"/>
+<pad name="NC." x="4.064" y="0" drill="2" diameter="2.9"/>
+<pad name="5V" x="8.128" y="0" drill="2" diameter="2.9"/>
+<pad name="GND" x="12.192" y="4.064" drill="2" diameter="2.9"/>
+<pad name="DATA" x="0" y="4.064" drill="2" diameter="2.9"/>
+<pad name="LATCH" x="4.064" y="4.064" drill="2" diameter="2.9"/>
+<pad name="CLOCK" x="8.128" y="4.064" drill="2" diameter="2.9"/>
 <wire x1="-2.286" y1="4.064" x2="-2.286" y2="0" width="0.127" layer="21"/>
 <wire x1="-2.286" y1="0" x2="0" y2="-2.286" width="0.127" layer="21" curve="90"/>
 <wire x1="0" y1="-2.286" x2="8.19710625" y2="-2.286" width="0.127" layer="21"/>
@@ -163,13 +163,13 @@
 <wire x1="18.8214" y1="-0.9906" x2="21.2344" y2="-0.9906" width="0.2032" layer="21"/>
 </package>
 <package name="NESCONN_NO_TABS">
-<pad name="NC" x="0" y="0" drill="1.7478" diameter="2.84"/>
-<pad name="NC." x="4.064" y="0" drill="1.7478" diameter="2.84"/>
-<pad name="5V" x="8.128" y="0" drill="1.7478" diameter="2.84"/>
-<pad name="GND" x="12.192" y="4.064" drill="1.7478" diameter="2.84"/>
-<pad name="DATA" x="0" y="4.064" drill="1.7478" diameter="2.84"/>
-<pad name="LATCH" x="4.064" y="4.064" drill="1.7478" diameter="2.84"/>
-<pad name="CLOCK" x="8.128" y="4.064" drill="1.7478" diameter="2.84"/>
+<pad name="NC" x="0" y="0" drill="2" diameter="2.9"/>
+<pad name="NC." x="4.064" y="0" drill="2" diameter="2.9"/>
+<pad name="5V" x="8.128" y="0" drill="2" diameter="2.9"/>
+<pad name="GND" x="12.192" y="4.064" drill="2" diameter="2.9"/>
+<pad name="DATA" x="0" y="4.064" drill="2" diameter="2.9"/>
+<pad name="LATCH" x="4.064" y="4.064" drill="2" diameter="2.9"/>
+<pad name="CLOCK" x="8.128" y="4.064" drill="2" diameter="2.9"/>
 <wire x1="-2.286" y1="4.064" x2="-2.286" y2="0" width="0.127" layer="21"/>
 <wire x1="-2.286" y1="0" x2="0" y2="-2.286" width="0.127" layer="21" curve="90"/>
 <wire x1="0" y1="-2.286" x2="8.19710625" y2="-2.286" width="0.127" layer="21"/>
