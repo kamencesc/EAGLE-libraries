@@ -26,4 +26,4 @@ Aliexpress: [DAC1502](https://es.aliexpress.com/item/4000054194789.html?spm=a2g0
 
 ## gamepad-conn.lbr
 
-* NES, SNES/FSC and N64 connectors from https://github.com/gzip/eagle-usb-gamepad breakouts.
+* NES, SNES/SC and N64 connectors from https://github.com/gzip/eagle-usb-gamepad breakouts.
